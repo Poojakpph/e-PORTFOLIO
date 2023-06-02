@@ -6,8 +6,7 @@ const Data = () => {
        <h1 className="home__title">POOJA KUMARI</h1>
 
        <h3 className="home__subtitle">Frontend Developer</h3>
-       <p className="home__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt repellat ipsam hic 
-        architecto quas facere veniam enim ipsa natus officia?</p>
+       <p className="home__description">I have always been fascinated by the technologies and how they have made our lives better. So learning and exploring new things have always made me happier</p>
         <a href="#contact" className="button button--flex">Say Hello
             <svg class="button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
     <path
