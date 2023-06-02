@@ -27,8 +27,7 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i className="uil uil-times services__modal-close" onClick={()=> toggleTab(0)}></i>
                         <h3 className="services__modal-title">Frontend Web Development</h3>
-                        <p className="services__modal-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                          Consequatur, adipisci! Nihil doloremque eveniet molestias quidem.</p>
+                        <p className="services__modal-description">With 2+ years of experience in frontend web design</p>
 
                           <ul className="services__modal-services grid">
                             <li className="services__modal-service">
@@ -65,8 +64,7 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i className="uil uil-times services__modal-close" onClick={()=> toggleTab(0)}></i>
                         <h3 className="services__modal-title">UI/UX Designer</h3>
-                        <p className="services__modal-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                          Consequatur, adipisci! Nihil doloremque eveniet molestias quidem.</p>
+                        <p className="services__modal-description">With 2+ years of experience in UI of web applications</p>
 
                           <ul className="services__modal-services grid">
                             <li className="services__modal-service">
