@@ -13,9 +13,8 @@ const About = () => {
                 <img src={AboutImg} alt="" className="about__img" />
                 <div className="about__data">
 
-                    <p className="about__description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt at quae doloribus,
-                        iure rem harum voluptatem ipsam non quasi suscipit, molestiae laudantium nulla dignissimos aspernatur repellat
-                        voluptatum, iste rerum eum Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt at quae doloribus</p>
+                    <p className="about__description">Frontend developer, I create web pages with UI/UX user interface, 
+                        I have experience of more than 2 years in this domain and still grinding myself to develop a more optimized version of me.</p>
 
                     <a href={CV} download="" className="button button--flex">Download Resume
                         <svg
