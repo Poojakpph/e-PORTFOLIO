@@ -1,7 +1,6 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/about_profilephoto.jpg";
-import CV from "../../assets/Resume.pdf";
 
 const About = () => {
     return (
@@ -13,10 +12,9 @@ const About = () => {
                 <img src={AboutImg} alt="" className="about__img" />
                 <div className="about__data">
 
-                    <p className="about__description">Frontend developer, I create web pages with UI/UX user interface, 
-                        I have experience of more than 2 years in this domain and still grinding myself to develop a more optimized version of me.</p>
+                    <p className="about__description">Frontend developer, I create web pages with UI/UX user interface, I have experience of more than 2 years in this domain and still grinding myself to develop a more optimized version of me. </p>
 
-                    <a href={CV} download="" className="button button--flex">Download Resume
+                     <a href='LatResume.pdf' download='LatResume.pdf' className="button button--flex">Download Resume
                         <svg
                             class="button__icon"
                             xmlns="http://www.w3.org/2000/svg"
